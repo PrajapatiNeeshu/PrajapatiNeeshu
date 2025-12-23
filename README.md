@@ -27,15 +27,13 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajapatiNeeshu&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
 
 🏢 **Infosys Pvt Ltd**
 
-📍 **New Delhi**
+📍 New Delhi
 
-💼 **5.5 +Years of Experience**
+💼 5.10 +Years of Experience in Software QA Engineer
 
 🔭 Currently working on Infosys Pvt Ltd Noida
 
