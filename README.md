@@ -33,7 +33,7 @@
 
 📍 New Delhi
 
-💼 5.10 +Years of Experience in Software QA Engineer
+💼 6 +Years of Experience in Software QA Engineer
 
 🔭 Currently working on Infosys Pvt Ltd Noida
 
