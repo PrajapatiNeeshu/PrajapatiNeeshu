@@ -12,18 +12,7 @@
 
 <!-- PROFILE BADGES -->
 <p>
- ![Focus](https://img.shields.io/badge/Focus-SDET-ff79c6?style=for-the-badge)
-![Experience](https://img.shields.io/badge/Experience-6+_Years-ff79c6?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=PrajapatiNeeshu&style=for-the-badge&color=ff79c6)
-![Playwright](https://img.shields.io/badge/Playwright-Automation-2ea44f?style=for-the-badge&logo=playwright)
-![API Testing](https://img.shields.io/badge/API_Testing-REST%20%7C%20Postman-orange?style=for-the-badge&logo=postman)
-![DB Testing](https://img.shields.io/badge/DB_Testing-SQL%20%7C%20NoSQL-blue?style=for-the-badge&logo=mysql)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Strongly_Typed-3178c6?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-Automation-3776ab?style=for-the-badge&logo=python)
-![GitHub](https://img.shields.io/badge/GitHub-Version_Control-181717?style=for-the-badge&logo=github)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-success?style=for-the-badge&logo=githubactions)
-![Jenkins](https://img.shields.io/badge/Jenkins-Pipelines-d24939?style=for-the-badge&logo=jenkins)
+<img src="https://img.shields.io/badge/Focus-SDET-ff79c6?style=for-the-badge" alt="focus"/> <img src="https://img.shields.io/badge/6+_Years-On_GitHub-ff79c6?style=for-the-badge" alt="years"/> <img src="https://komarev.com/ghpvc/?username=PrajapatiNeeshu&style=for-the-badge&color=ff79c6" alt="views"/>
 
 </p>
 <!-- SOCIAL LINKS -->
