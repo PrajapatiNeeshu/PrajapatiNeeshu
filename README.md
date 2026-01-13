@@ -13,7 +13,7 @@
 <!-- PROFILE BADGES -->
 <p>
   <img src="https://img.shields.io/badge/Focus-SDET-ff79c6?style=for-the-badge" alt="focus"/>
-  <img src="https://img.shields.io/badge/4+_Years-On_GitHub-ff79c6?style=for-the-badge" alt="years"/>
+  <img src="https://img.shields.io/badge/6+_Years-On_GitHub-ff79c6?style=for-the-badge" alt="years"/>
   
   <img src="https://komarev.com/ghpvc/?username=PrajapatiNeeshu&style=for-the-badge&color=ff79c6" alt="views"/>
 </p>
