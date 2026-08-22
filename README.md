@@ -2,8 +2,13 @@
 
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff79c6,100:0d1117&height=200&section=header&text=NeeshuPrajapati&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Security%20SDET%20%7C%20Playwright%20SDET%20%7C%20Cybersecurity%20%26%20Pen%20Testing&descAlignY=55&descSize=18" width="100%"/>
+<!-- HEADER BANNER (static, no external render service — avoids capsule-render outages) -->
+
+# 👋 Hi, I'm Neeshu Prajapati
+
+### 🛡️ Security SDET · Playwright SDET · Cybersecurity & Pen Testing
+
+<img src="https://img.shields.io/badge/-●%20●%20●-0d1117?style=flat-square" width="120"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/PrajapatiNeeshu">
@@ -325,8 +330,11 @@ Results-driven QA Automation Engineer with 7+ years of hands-on experience in **
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff79c6,100:0d1117&height=120&section=footer" width="100%"/>
+---
 
 **⭐ From [PrajapatiNeeshu](https://github.com/PrajapatiNeeshu) with ❤️**
 
 </div>
+
+
+
