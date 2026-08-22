@@ -3,16 +3,16 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff79c6,100:0d1117&height=200&section=header&text=NeeshuPrajapati&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=SDET%20Playwright%20Engineer%20%40%20Infosys%2C%20Automation%20Engineer%20&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff79c6,100:0d1117&height=200&section=header&text=NeeshuPrajapati&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Security%20SDET%20%7C%20Playwright%20SDET%20%7C%20Cybersecurity%20%26%20Pen%20Testing&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/PrajapatiNeeshu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Automation-First%20SDET%20%7C%20Delivering%20Quality%20at%20Scale%20with%20Playwright%20%26%20Selenium%20with%20GEN%20AI%20Testing%20" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&repeat=true&width=900&height=45&lines=Security+SDET+%7C+GRC+%7C+Networking+Automation;Playwright+SDET+%7C+Cybersecurity+Testing+%7C+Pen+Testing;SOC+Analyst+%7C+Red+Team+%7C+Blue+Team" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
 <p>
-<img src="https://img.shields.io/badge/Focus-SDET-ff79c6?style=for-the-badge" alt="focus"/> <img src="https://img.shields.io/badge/6+_Years-On_GitHub-ff79c6?style=for-the-badge" alt="years"/> <img src="https://komarev.com/ghpvc/?username=PrajapatiNeeshu&style=for-the-badge&color=ff79c6" alt="views"/>
+<img src="https://img.shields.io/badge/Focus-Security_SDET-ff79c6?style=for-the-badge" alt="focus"/> <img src="https://img.shields.io/badge/7+_Years-Experience-ff79c6?style=for-the-badge" alt="years"/> <img src="https://komarev.com/ghpvc/?username=PrajapatiNeeshu&style=for-the-badge&color=ff79c6" alt="views"/>
 
 </p>
 <!-- SOCIAL LINKS -->
@@ -24,28 +24,27 @@
 
 ---
 
+🏢 **WatchGuard Technologies**
 
+📍 Dubai, UAE
 
-🏢 **Infosys Pvt Ltd**
+💼 7+ Years of Experience in QA Automation, Security SDET & Cybersecurity Testing
 
-📍 New Delhi
+🎯 **Target Roles:** Security SDET · GRC · Networking Automation · Playwright SDET · Cybersecurity Testing · Penetration Testing · SOC Analyst · Red Team · Blue Team
 
-💼 6 +Years of Experience in Software QA Engineer
+🔭 Currently working on API/Security test automation, AuthPoint MFA validation, and AppSec transition (Security SDET → AppSec Engineer)
 
-🔭 Currently working on Infosys Pvt Ltd Noida
+🌱 Currently learning **Burp Suite, OWASP Top 10 (IDOR/BOLA), JWT/session security testing, Networking fundamentals for security, and CompTIA Security+ prep.**
 
-🌱 Currently learning **Upskilling in Playwright Automation (TypeScript), AI/ML (Python), MCP Server architecture, Jenkins CI/CD, Mobile Testing, API Testing, and Prompt Engineering.**
+💬 Ask me about **Playwright (TypeScript) automation, API & Database testing, SSL/TLS & MFA authentication testing, Burp Suite security testing, and CI/CD pipelines.**
 
-💬 Ask me about **modern SDET practices with Playwright (TypeScript), AI/ML using Python, MCP Server, CI/CD pipelines, Mobile & API Testing, and Prompt Engineering.**
-
-🎓 Certifications: **AWS Cloud Practitioner,Playwright Automation (TypeScript),Prompt Engineering,Salesforce,Quality Engineering**
+🎓 Certifications: **AWS Cloud Practitioner, Playwright Automation (TypeScript), Prompt Engineering, Salesforce, Quality Engineering**
 
 ⚡ Fun fact: **I measure success not by test counts, but by how many production issues never happen.**
 
 📦 **15** repositories
 
 <br clear="right"/>
-
 
 ### 🤝 Open For
 
@@ -56,26 +55,76 @@
 <img src="https://img.shields.io/badge/🎤_Speaking-Interested-purple?style=for-the-badge" alt="Speaking"/>
 <img src="https://img.shields.io/badge/🧑‍🏫_Mentoring-Available-green?style=for-the-badge" alt="Mentoring"/>
 </p>
-<!-- Snake Game Repo View -->
 
+<!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+---
 
+## 🔐 About Me
+
+Results-driven QA Automation Engineer with 7+ years of hands-on experience in **Playwright with TypeScript**, **API Testing**, **Database Testing**, **Cybersecurity Validation**, and **Mobile Test Automation**. Skilled in end-to-end application validation, authentication testing, SSL security validation, MFA workflows, and endpoint verification. Experienced working with enterprise-level security products and automation frameworks, with a strong understanding of SDLC, STLC, Agile methodology, and CI/CD practices.
+
+## 🔑 Key Skills
+
+🔹 Playwright Automation with TypeScript
+🔹 API Testing & Validation
+🔹 Database Testing (SQL Queries & Data Validation)
+🔹 Cybersecurity Testing
+🔹 Endpoint Validation & Security Testing
+🔹 SSL/TLS Authentication Testing
+🔹 MFA (Multi-Factor Authentication) Testing
+🔹 AuthPoint Authentication Validation
+🔹 Burp Suite Security Testing
+🔹 Mobile Testing Automation
+🔹 Functional & Regression Testing
+🔹 Agile & Scrum Methodology
+🔹 CI/CD Integration
+🔹 Cross-Browser Testing
+🔹 Linux & Windows Environment Testing
+
+## 💼 Professional Experience Highlights
+
+- Working as a QA Automation Engineer on enterprise-level cybersecurity and authentication products.
+- Developed and maintained automation frameworks using Playwright with TypeScript for web applications.
+- Performed API testing, response validation, authentication validation, and endpoint security testing.
+- Validated SSL/TLS authentication flows and secure communication between systems.
+- Worked extensively on MFA (Multi-Factor Authentication) and AuthPoint authentication testing.
+- Performed database testing and backend data validation using SQL queries.
+- Executed endpoint validation and cybersecurity testing for secure enterprise applications.
+- Used Burp Suite for security assessment, request interception, and vulnerability analysis.
+- Automated mobile application testing workflows and validation scenarios.
+- Conducted functional, regression, smoke, and integration testing across multiple environments.
+
+---
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 <h3 align="center">🧪 Testing & QA</h3>
 <br/>
 <div align="center">
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
 </div>
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
+
+<h3 align="center">🛡️ Security</h3>
+<br/>
+<div align="center">
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="burpsuite"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="owasp"/>
+<img src="https://img.shields.io/badge/SSL%2FTLS-005571?style=for-the-badge" alt="ssltls"/>
+</div>
+
+</td>
+<td valign="top" width="25%">
 
 <h3 align="center">💻 Development</h3>
 <br/>
@@ -86,19 +135,19 @@
 </div>
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 <h3 align="center">⚙️ DevOps & Tools</h3>
 <br/>
 <div align="center">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="githubactions"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 </div>
 
 </td>
 </tr>
 </table>
-
 
 ---
 
@@ -107,11 +156,24 @@
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
 ![Rest Assured](https://img.shields.io/badge/RestAssured-000000?style=for-the-badge)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
+
+### 🛡️ Security & Cybersecurity Testing
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![MFA](https://img.shields.io/badge/MFA%2FAuthPoint-2C3E50?style=for-the-badge)
+![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-005571?style=for-the-badge)
+![Pen Testing](https://img.shields.io/badge/Penetration%20Testing-8B0000?style=for-the-badge)
+![SOC](https://img.shields.io/badge/SOC%20Analyst-1B2A41?style=for-the-badge)
+![Red Team](https://img.shields.io/badge/Red%20Team-B22222?style=for-the-badge)
+![Blue Team](https://img.shields.io/badge/Blue%20Team-1E5AA8?style=for-the-badge)
 
 ### 🧠 Languages  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🛠 Tools  
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -120,18 +182,16 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
-
 
 ---
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LinkedIn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neeshubiet@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeshutechautomation/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neeshubiet@gmail.com) 
 
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Single Store](https://img.shields.io/badge/Single%20Store-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PrajapatiNeeshu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=PrajapatiNeeshu&theme=dark&hide_border=false)<br/>
@@ -199,9 +259,7 @@
   <i>💡 Total of <b>15</b> repositories — <b>1</b> forks</i>
 </p>
 
-
 ---
-
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" height="30" /> Achievements
 
@@ -209,13 +267,13 @@
 
 | 🏆 Achievement | 📊 Status |
 |:-------------:|:---------:|
-| 📅 3+ Years on GitHub | ✅ Unlocked |
-| 💻 JavaScript Expert | ✅ Unlocked |
+| 📅 7+ Years Experience | ✅ Unlocked |
+| 💻 JavaScript/TypeScript Expert | ✅ Unlocked |
+| 🛡️ Cybersecurity & AppSec Testing | ✅ Unlocked |
 
 </div>
 
 ---
-
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Profile Summary
 
@@ -232,7 +290,7 @@
 </td>
 
 <td align="center">
-<img src="https://img.shields.io/badge/📅_Years_Active-4+-orange?style=for-the-badge" alt="Years"/>
+<img src="https://img.shields.io/badge/📅_Years_Experience-7+-orange?style=for-the-badge" alt="Years"/>
 </td>
 </tr>
 </table>
@@ -255,7 +313,7 @@
 
 <div align="center">
 
-**I'm always interested in collaborating on exciting projects!**
+**I'm always interested in collaborating on exciting Security SDET / AppSec / QA Automation projects!**
 
 <a href="https://www.linkedin.com/in/neeshutechautomation/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://parultech.com/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a> <a href="mailto:neeshubiet@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
 
