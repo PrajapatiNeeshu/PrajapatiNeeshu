@@ -4,7 +4,7 @@
 
 <!-- HEADER BANNER (static, no external render service — avoids capsule-render outages) -->
 
-# 👋 Hi, I'm Neeshu Prajapati
+# 👋 Hi, I'm Neeshu Kumar 
 
 ### 🛡️ Security SDET · Playwright SDET · Cybersecurity & Pen Testing
 
